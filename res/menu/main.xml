@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    
+    <item android:id="@+id/NowPlaying" 
+         android:showAsAction="always"
+          android:title="CurrentSong"
+          android:icon="@drawable/ic_action_next_item"
+          
+           >
+        
+    </item>
+   
+
+</menu>
